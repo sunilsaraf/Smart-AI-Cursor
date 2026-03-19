@@ -1,6 +1,15 @@
-# CodePilot - AI-Powered Coding Assistant Platform
+# smart-ai-cursor — AI-First Coding Workspace (Cursor-like AI IDE)
 
-CodePilot is a production-grade, open-source AI coding assistant platform inspired by Cursor. It provides intelligent code completion, context-aware chat, automated refactoring, and seamless integration with your development workflow.
+smart-ai-cursor is an AI-first developer workspace inspired by Cursor, designed to provide
+repository-aware chat, semantic code search, safe multi-file editing, agent workflows,
+and patch-based code generation.
+
+The platform is built using a modular monorepo architecture with React, Node.js,
+TypeScript, vector search, and agent orchestration, enabling production-style
+AI-assisted software engineering.
+
+This project is not a copy of Cursor internals.
+It is a clean-architecture implementation of a modern AI coding platform.
 
 ## 🚀 Features
 
