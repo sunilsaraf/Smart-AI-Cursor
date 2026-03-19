@@ -1,4 +1,4 @@
-# smart-ai-cursor — AI-First Coding Workspace (Cursor-like AI IDE)
+# Smart-AI-Cursor — AI-First Coding Workspace (Cursor-like AI IDE)
 
 smart-ai-cursor is an AI-first developer workspace inspired by Cursor, designed to provide
 repository-aware chat, semantic code search, safe multi-file editing, agent workflows,
